@@ -7,6 +7,7 @@ pygame.display.set_caption("Орки идут")
 icon = pygame.image.load('images/MPGicon.png')
 pygame.display.set_icon(icon)
 
+
 pl_walk_rigth = [
     pygame.image.load('images/player_1/1_ORK (2100 1250)/1_ORK_R/ORK_01_WALK_000.png').convert_alpha(),
     pygame.image.load('images/player_1/1_ORK (2100 1250)/1_ORK_R/ORK_01_WALK_001.png').convert_alpha(),
